@@ -31,4 +31,4 @@ Instances: 12330
 6. Transformation + Normalization + PCA
 
 ## Time to run
-6.13 minutes (excluding Imports)
+5.43 minutes (excluding Imports)
